@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analytics Dashboard
+# Sales Analytics Dashboard
 
 ## 📌 Project Overview
 
