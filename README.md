@@ -70,16 +70,16 @@ The objective of this project is to transform sales data into an interactive das
 ## 📷 Dashboard Screenshots
 
 ### Sales Overview
-<img width="1352" height="742" alt="image" src="https://github.com/vivek-cripto/Sales-Analytic-Dashboard/blob/main/Screenshot/Screenshot%202026-09-18%20102334.png" />
+(Screenshot/Screenshot 2026-09-18 102334.png)
 
 ### Regional Analysis
-![Regional Analysis](Screenshot/Maps.png)
+![Regional Analysis](Screenshot/Screenshot 2026-09-18 102346.png)
 
 ### Product Analysis
-![Product Analysis](Screenshot/Product_Detail.png)
+![Product Analysis](Screenshot/Screenshot 2026-09-18 102355.png)
 
 ### Customer Analysis
-![Customer Analysis](Screenshot/Customer_Detail.png)
+![Customer Analysis](Screenshot/Screenshot 2026-09-18 102355.png)
 
 ## 🎯 Objective
 
