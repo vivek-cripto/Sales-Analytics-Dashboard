@@ -70,16 +70,16 @@ The objective of this project is to transform sales data into an interactive das
 ## 📷 Dashboard Screenshots
 
 ### Sales Overview
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](Screenshot/Dashboard.png)
 
 ### Regional Analysis
-![Regional Analysis](screenshots/regional-analysis.png)
+![Regional Analysis](Screenshot/Maps.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/product-analysis.png)
+![Product Analysis](Screenshot/Product_Detail.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/customer-analysis.png)
+![Customer Analysis](Screenshot/Customer_Detail.png)
 
 ## 🎯 Objective
 
